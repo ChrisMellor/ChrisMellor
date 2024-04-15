@@ -1,35 +1,39 @@
-# 💫About Me :
-🔭 A domain driven application to support FFXIV players
+# Chris Mellor's Hub — Full-Stack .NET Solutions!
 
-🌱 Learning about Domain Driven Design and improving general .Net skills
+## 👨‍💻 About Me
+I'm Chris, a full-stack .NET developer nearing six years of expertise, specializing in crafting integrated solutions using ASP.NET Core. I'm deeply committed to enhancing user experiences and currently focus on improving my front-end skills, with a particular emphasis on mastering TypeScript.
 
-💬 Ask me about .Net
+My professional journey is marked by a passion for both learning and sharing knowledge, having mentored junior developers and always seeking to broaden my own technical horizons. Presently, I am developing services tailored to the needs of the vibrant player community of Final Fantasy XIV, aiming to streamline their gaming experiences with functional and intuitive interfaces.
 
-⚡ Fun fact about me: I can clear GREEN HILL 1 in 37 seconds
+As I approach a pivotal milestone in my career, my next goal is to step into a senior developer role, where I can further influence project outcomes and lead teams towards innovative solutions. Outside of work, I continue to engage with the gaming world, not only as a hobby but as a source of inspiration for my projects.
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christopher-mellor) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5918913) 
+## 🛠 Skills and Technologies
+- **Languages**: C#, JavaScript, TypeScript, HTML, CSS
+- **Frameworks/Platforms**: .NET, ASP.NET Core, Bootstrap
+- **Tools**: Visual Studio, Git, NUnit, Docker
+- **Databases**: Microsoft SQL Server
 
-# 💻Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+## 🚀 Projects
+- **Wedding Site**: Current project for the big day. Technologies used includes ASP.NET Core and Bootstrap
+- **Portfolio Rebuild**: Next project focusing on integrating new front-end technologies including TypeScript and advanced CSS techniques. 
+- **FFXIV Player Companion**: A future project to summarise your current point in FFXIV.
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
+## 🏆 Achievements
+- **MTA: Software Development Fundamentals** - Certified by Microsoft, demonstrating foundational software development skills. [View Certification](https://www.credly.com/badges/bd6021f2-145a-4fb7-99c4-e61ed1af155a/linked_in_profile)
+- **Bachelor of Science in Software Engineering (BSc Hons)** - Earned from Cardiff Metropolitan University. Focuses on developing essential skills in software development, project management, and system analysis, including practical experience with industry-standard software and methodologies. 
+- **Microsoft Office Specialist (MOS) Master** - Achieved Master level certification, demonstrating advanced proficiency in Microsoft Office applications, enhancing productivity and technical skills. [View Certification](https://www.credly.com/badges/e7720a62-815c-4318-a955-4a1c950641db/linked_in_profile)
 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
+## 📚 Learning & Development
+- **TypeScript Mastery**: Currently deepening my understanding of TypeScript to enhance my front-end development skills, with the goal of integrating more robust type-safety features into my web projects.
+- **Front-End Technologies**: Actively learning modern front-end frameworks and libraries to stay on the cutting edge of UI/UX trends and best practices.
+- **Continuous Learning**: Participating in regular webinars and online courses, focusing on advanced software architecture and design patterns to prepare for a future senior developer role.
 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+## 📬 Connect With Me
+Let's connect! Whether you're looking for collaboration on a project, interested in mentorship, or just want to talk tech, I'm open to opportunities and discussions.
 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christopher-mellor) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5918913) 
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=chrismellor&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chrismellor&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismellor&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chrismellor&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=chrismellor&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=chrismellor&theme=midnight-purple&hide_border=true)
