@@ -35,9 +35,5 @@ Let's connect! Whether you're looking for collaboration on a project, interested
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5918913) 
 
 ## 📈 GitHub Stats
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chrismellor&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrismellor&theme=midnight-purple&hide_border=true" />
-</a>
+  <img height=200 width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=chrismellor&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height=200 width=450 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrismellor&theme=midnight-purple&hide_border=true" />
