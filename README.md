@@ -38,6 +38,6 @@ Let's connect! Whether you're looking for collaboration on a project, interested
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrismellor&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&card_width=400" />
 </a>
-<a href="https://github-readme-streak-stats.herokuapp.com">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrismellor&theme=midnight-purple&hide_border=true&card_width=400" />
+<a href="[https://github-readme-streak-stats.herokuapp.com](https://git.io/streak-stats)">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChrisMellor&theme=midnight-purple&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=400&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
 </a>
