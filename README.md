@@ -33,11 +33,3 @@ Let's connect! Whether you're looking for collaboration on a project, interested
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christopher-mellor) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5918913) 
-
-## 📈 GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrismellor&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&card_width=400" />
-</a>
-<a href="[https://github-readme-streak-stats.herokuapp.com](https://git.io/streak-stats)">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChrisMellor&theme=midnight-purple&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=400&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
-</a>
